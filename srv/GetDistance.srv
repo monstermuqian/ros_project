@@ -1,0 +1,3 @@
+string LandmarkName # The name of the closest landmark
+---
+float64 DistanceToRobot # The distance between robot and landmark
